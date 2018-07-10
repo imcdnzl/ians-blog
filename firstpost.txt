@@ -1,0 +1,10 @@
+Aspergers
+Becoming technical again
+
+First of all I went to look at blogging platforms
+
+Also on git you can see how I do things if you want
+
+Hugo vs Jekyll. Jekyll has docs but Hugo is newer. Nothing wrong with Ruby but lots being done with Go these days. Went and installed Go on WSL but forgot that it's all binaries so no need.
+
+WSL uses same IP address as machine for testing Hugo server. Not mentioned in FAQs (link) so made a pull request - have to love working in the open.
